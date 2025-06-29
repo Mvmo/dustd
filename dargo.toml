@@ -1,8 +1,8 @@
-name="My New Project"
+name="dustd"
 
-        [[bin]]
-        name = "my_app"
-        version = "0.1.0"
-        file = "./src/main.duck"
+[[bin]]
+name = "my_app"
+version = "0.1.0"
+file = "./src/main.duck"
 
-        [dependencies]
+[dependencies]
