@@ -1,0 +1,7 @@
+use go "fmt";
+
+fun hello_world() {
+    go {
+        fmt.Println("Hello, World!");
+    }
+}
