@@ -1,6 +1,10 @@
 use go "fmt";
 
+module goo;
+module gee;
+
 fun hello_world() {
+    goo::print_goo();
     go {
         fmt.Println("Hello, World!");
     }

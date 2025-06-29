@@ -1,0 +1,7 @@
+use go "fmt";
+
+fun print_gee() {
+    go {
+        fmt.Println("geee");
+    }
+}
